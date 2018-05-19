@@ -1,0 +1,19 @@
+{
+  "name": "nodejsBot",
+  "version": "1.0.0",
+  "description": "Currency rates",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "8.7.0"
+  },
+  "keywords": [],
+  "author": "Taras Grynik",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.86.0"
+  }
+}
